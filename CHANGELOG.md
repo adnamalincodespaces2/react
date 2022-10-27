@@ -1,5 +1,24 @@
 # @primer/components
 
+## 35.14.0
+
+### Minor Changes
+
+- [#2466](https://github.com/primer/react/pull/2466) [`9ff856de`](https://github.com/primer/react/commit/9ff856ded581f70ded3eb9c2704e1ada8eb77c13) Thanks [@broccolinisoup](https://github.com/broccolinisoup)! - UnderlineNav2: Introduce disclosure widget pattern
+
+- [#2466](https://github.com/primer/react/pull/2466) [`9ff856de`](https://github.com/primer/react/commit/9ff856ded581f70ded3eb9c2704e1ada8eb77c13) Thanks [@broccolinisoup](https://github.com/broccolinisoup)! - UnderlineNav2: Always show at least two items in the overflow menu
+
+### Patch Changes
+
+- [#2490](https://github.com/primer/react/pull/2490) [`776fb958`](https://github.com/primer/react/commit/776fb958b8f179f37f4c3da826e164fae904538a) Thanks [@colebemis](https://github.com/colebemis)! - ConfirmationDialog: Remove header landmark to improve accessibility
+
+- [#2467](https://github.com/primer/react/pull/2467) [`d396c89a`](https://github.com/primer/react/commit/d396c89aa4beb655bb8e6bae0863aa94057ce736) Thanks [@josepmartins](https://github.com/josepmartins)! - Align status components table to primer.style/status table
+
+- [#2359](https://github.com/primer/react/pull/2359) [`b05fa743`](https://github.com/primer/react/commit/b05fa74367a15a3a929c2858e09e12b439758538) Thanks [@joshblack](https://github.com/joshblack)! - Update `Button` to only spread additional `props` onto underlying `<button>`
+  element.
+
+- [#2466](https://github.com/primer/react/pull/2466) [`9ff856de`](https://github.com/primer/react/commit/9ff856ded581f70ded3eb9c2704e1ada8eb77c13) Thanks [@broccolinisoup](https://github.com/broccolinisoup)! - UnderlineNav2: Render a visually hidden heading for screen readers when aria-label is present
+
 ## 35.13.0
 
 ### Minor Changes
